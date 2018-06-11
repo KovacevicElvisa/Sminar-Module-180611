@@ -1,0 +1,26 @@
+{
+  "id": "487e21fc-24d2-4adb-9e2f-42fd3dc8f177",
+  "name": "AL Seminar",
+  "publisher": "E. K. Dev",
+  "brief": "",
+  "description": "AL Seminar",
+  "version": "1.0.0.0",
+  "compatibilityId": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "showMyCode": true,
+  "target": "Internal",
+  "platform": "11.0.0.0",
+  "application": "11.0.0.0",
+  "features": "TranslationFile",
+  "idRange": {
+    "from": 123456700,
+    "to": 123456999
+  }
+}
